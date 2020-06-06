@@ -1,0 +1,15 @@
+Input
+Store A
+Input 
+Store B
+Input
+Store C
+
+Add A
+Add B
+Output
+Halt
+
+A, DEC 0
+B, DEC 0
+C, DEC 0
